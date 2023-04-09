@@ -1,6 +1,6 @@
 # ❤️ Learn-Backend-in-Nodejs-by-Sanket-Singh-December Batch 🙏
-### _[Basics to Advanced](https://sanketsingh8670.ongraphy.com/) 🚀 by [Sanket Singh](https://www.linkedin.com/in/singhsanket143/)(Building GPay | SWE II @ Google | 30k+ On Youtube | Ex-SDE @ Linked[In] || Google Summer Of Code'19 @ Harvard-Berkman Klein || Ex-SWE @ InterviewBit || 6 Star @ Hackerrank
-). This repository for Assignment & Class Notes taken during the course._
+### [Basics to Advanced](https://sanketsingh8670.ongraphy.com/) 🚀 by [Sanket Singh](https://www.linkedin.com/in/singhsanket143/)(Building GPay | SWE II @ Google | 30k+ On Youtube | Ex-SDE @ Linked[In] || Google Summer Of Code'19 @ Harvard-Berkman Klein || Ex-SWE @ InterviewBit || 6 Star @ Hackerrank.
+This repository for Assignment & Class Notes taken during the course.
 - I made [🚀 Project 0 😍](https://foodfire-app.netlify.app/) from scratch using Node.js, which is the part of this course.
 
 
