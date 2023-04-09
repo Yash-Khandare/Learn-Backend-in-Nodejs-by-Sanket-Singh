@@ -10,8 +10,8 @@ This repository for Assignment & Class Notes taken during the course.
 - 📖 [_Theory Assignment Solution_](./Chapter%2001%20-%20Inception/Theory/Session1-Theory.md)
 - 👨‍💻 [_Coding Assignment Solution_](./Chapter%2001%20-%20Inception/Coding/)
 - 📟📝 _Digital and Handwritten Notes_
-    * 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter01) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
-    * 📝[_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter01) `Credit - Ashraya KK`
+    * 📟 [_Digital Notes of Live Class_]([https://bit.ly/Namaste-React-Digital-Chapter01]) )
+    * 📝[_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter01) 
 
 
 
