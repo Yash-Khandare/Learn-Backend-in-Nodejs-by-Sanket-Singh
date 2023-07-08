@@ -5,7 +5,9 @@ This repository for Assignment & Class Notes taken during the course.
 
 
 
-## 📚 [_Chapter 01 - Introduction to Programming with JS](./Chapter%2001%20-%20Inception/) 
+## 📚 [_Chapter - Introduction JS_2](./Chapter%2001%20-%20Inception/) 
+![image](https://github.com/Yash-Khandare/Learn-Backend-in-Nodejs-by-Sanket-Singh/assets/93189378/fc38963b-74d9-4c91-8888-41a37150ca07)
+
 
   
 
@@ -55,12 +57,6 @@ Start the server
 This application should now be running on `localhost`. If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 
-## ✨ Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
 
 
 
