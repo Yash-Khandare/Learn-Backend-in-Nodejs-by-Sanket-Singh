@@ -6,22 +6,10 @@ This repository for Assignment & Class Notes taken during the course.
 
 
 ## 📚 [_Chapter 01 - Introduction to Programming with JS](./Chapter%2001%20-%20Inception/) 
-- 📘 [_Assignment_](./Chapter%2001%20-%20Inception/Assignment.md)
-- 📖 [_Theory Assignment Solution_](./Chapter%2001%20-%20Inception/Theory/Session1-Theory.md)
-- 👨‍💻 [_Coding Assignment Solution_](./Chapter%2001%20-%20Inception/Coding/)
-- 📟📝 _Digital and Handwritten Notes_
-    * 📟 [_Digital Notes of Live Class_]([https://bit.ly/JS-for-Backend-2](https://bit.ly/JS-for-Backend-2-)) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
-    * 📝[_Hand Written Notes of Live Class_]([https://bit.ly/JS-for-Backend-2](https://bit.ly/JS-for-Backend-2-)) `Credit - Ashraya KK`
+
+  
 
 
-
-## 📚 [_Chapter  - Introduction TO BackEnd Development with JS](./Chapter%2001%20-%20Inception/) (Date: 24-12-2022)
-- 📘 [_Assignment_](./Chapter%2001%20-%20Inception/Assignment.md)
-- 📖 [_Theory Assignment Solution_](./Chapter%2001%20-%20Inception/Theory/Session1-Theory.md)
-- 👨‍💻 [_Coding Assignment Solution_](./Chapter%2001%20-%20Inception/Coding/)
-- 📟📝 _Digital and Handwritten Notes_
-    * 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter01) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
-    * 📝[_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter01) `Credit - Ashraya KK`
 
 
 
