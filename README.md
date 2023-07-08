@@ -40,6 +40,11 @@ This repository is for Class Notes taken during the course.
 
 - ### 📚  ToPrimitive ( input [ , preferredType ] )
 
+- ![image](https://github.com/Yash-Khandare/Learn-Backend-in-Nodejs-by-Sanket-Singh/assets/93189378/5effe12d-5740-4380-804e-e765d45f0035)
+
+- ![image](https://github.com/Yash-Khandare/Learn-Backend-in-Nodejs-by-Sanket-Singh/assets/93189378/07cf1b68-ae93-4504-9ca4-ca551372e472)
+
+
 
 
   
